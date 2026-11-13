@@ -9,7 +9,7 @@ const int ECHO = 16;
 const float DIST_MAX = 50.0;
 float suavizado = -1;
 
-/* ----- THEREMIN 2 (efecto) ----- */
+/* ----- THEREMIN 2 ----- */
 const int TRIG2 = 18;
 const int ECHO2 = 19;
 const float EFECTO_DIST_MIN = 5.0;
